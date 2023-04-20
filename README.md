@@ -10,3 +10,4 @@ index.html -- file to be ran to display page in browser. people.js-- java file c
 
 all files are needed for program to run
 
+Files compressed and zipped, uploaded to teams submission as well incase github does not work
