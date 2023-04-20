@@ -1,0 +1,56 @@
+[
+    {
+      "firstname": "Spongebob",
+      "lastname": "SquarePants",
+      "gender": "male",
+      "birthday": "7/14/1986",
+      "status": "single",
+      "wage": 15,
+      "Job": "Fry Cook"
+    },
+    {
+      "firstname": "Patrick",
+      "lastname": "Star",
+      "gender": "male",
+      "birthday": "8/17/1986",
+      "status": "undisclosed",
+      "wage": 20,
+      "Job": "undisclosed"
+    },
+    {
+      "firstname": "Eugene",
+      "lastname": "Krabs",
+      "gender": "male",
+      "birthday": "11/30/1942",
+      "status": "dating",
+      "wage": 34,
+      "Job": "Owner/Manager"
+    },
+    {
+      "firstname": "Sandy",
+      "lastname": "Cheeks",
+      "gender": "female",
+      "birthday": "11/17/1983",
+      "status": "single",
+      "wage": 19,
+      "Job": "Scienctist"
+    },
+    {
+      "firstname": "Mrs",
+      "lastname": "Puff",
+      "gender": "female",
+      "birthday": "1/12/1958",
+      "status": "dating",
+      "wage": 16,
+      "Job": "Teacher"
+    },
+    {
+        "firstname": "Sheldon",
+        "lastname": "Plankton",
+        "gender": "undisclosed",
+        "birthday": "11/30/1942",
+        "status": "Married",
+        "wage": 16,
+        "Job": "Owner/Manager"
+      }
+  ]
